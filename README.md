@@ -1,0 +1,1 @@
+# --nome-GitHub-Action-for-Mercure-usos-Ilshidur-action-mercure-1.1.0
